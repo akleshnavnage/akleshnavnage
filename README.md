@@ -64,7 +64,6 @@ Aspiring Full Stack Developer (MERN) • Building Real-World Web Applications
 - VS Code
 - Postman
 - Vite
-
 ---
 
 ## 📫 Connect With Me
@@ -76,7 +75,6 @@ https://www.linkedin.com/in/akleshnavnage/
 
 🐙 **GitHub:**  
 https://github.com/akleshnavnage
-
 ---
 
 ⭐ Always learning, building, and improving one project at a time.
